@@ -1,0 +1,10 @@
+Package: com.bid3v.gabc
+Name: goAwayBlurryCircles
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Get rid of those blurry circles behind your CC toggles!
+Maintainer: biD3V <biD3Veloper+jailbreak@gmail.com>
+Author: biD3V <biD3Veloper+jailbreak@gmail.com>
+Section: Tweaks
+Version: 1.0.0-1+debug
+Installed-Size: 292
