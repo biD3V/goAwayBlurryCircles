@@ -27,3 +27,9 @@ packages/com.bid3v.gabc_1.0.1_iphoneos-arm.deb
 .theos/last_package
 .theos/obj/debug/GABCPrefs.bundle/GABCPrefs
 .theos/obj/debug/goAwayBlurryCircles.dylib
+.DS_Store
+gabc.xcworkspace/contents.xcworkspacedata
+gabc.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+gabc.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+gabc.xcworkspace/xcuserdata/sawyerjester.xcuserdatad/UserInterfaceState.xcuserstate
+gabc.xcworkspace/xcuserdata/sawyerjester.xcuserdatad/WorkspaceSettings.xcsettings
